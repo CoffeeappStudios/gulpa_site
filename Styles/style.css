@@ -202,6 +202,7 @@ label {
 .btn:hover{color: #d7b7d0}
 .btn:hover:before{width:100%;color: #444}
 .btn.brand-btn{background: #782267;color: #fafafa}
+.more-button {background-color: :#782267; color : #fafafa;}
 .btn.brand-btn:hover{background: #782267;color: #d7b7d0}
 .btn.btn-2 {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
@@ -216,7 +217,7 @@ label {
 
 /* 2. header */
 .header-top-area {
-  border-bottom: 1px solid #fbba42;
+  border-bottom: 1px solid #782267;
 }
 .transparent-header .header-white .social-icon > a {
 	color: #fff;
@@ -614,7 +615,7 @@ header.transparent-header {
   padding-left: 65px;
 }
 .promotion-thumb img {
-	width: 100%;
+	width: 80%;
 }
 .promotion-text h3 {
   font-size: 28px;
@@ -825,9 +826,9 @@ header.transparent-header {
     overflow: hidden;
 }
 .tag-blog > a {
-  background: #fbba42 none repeat scroll 0 0;
+  background: #782267 none repeat scroll 0 0;
   border-radius: 30px;
-  color: #333333;
+  color: #fafafa;
   display: inline-block;
   font-size: 14px;
   line-height: 1;
@@ -1036,7 +1037,7 @@ header.transparent-header {
   padding-bottom: 30px;
 }
 .blog-thumb img {
-  width: 100%;
+  width: 65%;
 }
 
 .sidebar-widget > h3 {
@@ -2150,7 +2151,7 @@ a#scrollUp {
   width: 45px;
   font-size: 18px;
 }
-a#scrollUp:hover{background:  #fbba42;color: #444}
+a#scrollUp:hover{background:  #782267;color: #fafafa}
 
 .imageFixScale{
   object-fit:scale-down;
